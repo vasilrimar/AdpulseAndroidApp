@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-52027fcec11f18d40df487ce8c922437c4305433.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-231c3e401f7bf3410dce39a879dfe6d1761d5f4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-7df4b3e44b843af265b7c4811a4acfde8bca77fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\volley-c243646e1693b5842708543b405bf2c1a41caa90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-353187ea336c22c59bd51a94920ac0c3d5c893a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-b139d7e24e12fc309a277ef5c5c3008ad6b8ff2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-cf2b67aaea470b514120a84e6472df6ab334d35c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-694f31df682cf6d293cc96ffc05a2646597efb80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-be22b6e225afd982be21e306dbc98f4c8f4c1945.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-c6362c35ad95c4a57fcc1e06da5492a421dc23c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-9a16481fe72216a39ad9738dcdf8a347fc0db48f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-ee21755e3b8de28e183bd27ecbf2e4a95f2d4e68.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-789b81f5e5c4131a8548680ac88b3826cbed0577.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-d2346e669a1530bae4239575365685169b7cfc5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-3f90eebf461cd4d59edce55c9012a5881780d73c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-4e2530ce7ffbeca71e9b5cae388a9b2c4dca0fc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-f8f4883c8336ffc8fab6907145822d7a2aa99455.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-43d024fc26671a4b3cf79ad9073a58406b46180b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\libs\sugar-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5f8a323697ff1f101f72a345b14185d76d7c4353">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\sugar-1.3-7d5d958522a9429f10f8bad783adfb6b8467279b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-e741052feea2381531ff0a32759c4ea249e945bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-b83e02935fe30e981fc0dd0ae0263b7f2db0bb75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-60394a5bddd6a388b1f4b6792d489aeaba07f012.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\gson-2.3.1-09c35cc906db23970b7cd5a4d0c3448025268c13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-af1963014b9565c547b53c8fefa7adf3fe5166fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-fa4337f2613247405acdecbf46657a6c2e9a2e3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Vasil\Desktop\Adpulse\app\build\intermediates\pre-dexed\debug\classes-9488923b0531eb7c096e4d124873cfa7b9572b7d.jar" />
+    </item>
+
+</items>

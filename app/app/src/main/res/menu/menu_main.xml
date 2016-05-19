@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:title="Sort"
+        android:icon="@drawable/ic_action_sort_1"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/menuSortAll"
+                android:title="All" />
+            <item
+                android:id="@+id/menuSortComplete"
+                android:title="Completed" />
+            <item
+                android:id="@+id/menuSortPending"
+                android:title="Pending" />
+            <item
+                android:id="@+id/menuSortIncomplete"
+                android:title="Incomplete" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/toggleSearch"
+        android:title="Search"
+        android:icon="@drawable/action_search"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:title="Upload"
+        android:icon="@drawable/ic_action_upload"
+        app:showAsAction="ifRoom">
+    </item>
+
+</menu>

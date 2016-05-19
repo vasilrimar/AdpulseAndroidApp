@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Adpulse</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="drawer_items">
+        <item>Locations</item>
+        <item>Map</item>
+    </string-array>
+    <string-array name="filter_items">
+        <item>Complete</item>
+        <item>Pending</item>
+        <item>Incomplete</item>
+    </string-array>
+
+    <string name="title_map">Map</string>
+    <string name="title_login">Adpulse</string>
+    <string name="title_location_list">Locations</string>
+    <string name="title_location_detail">Location Detail</string>
+    <string name="color_completed">#23cd8b</string>
+    <string name="color_pending">#edd324</string>
+    <string name="color_incomplete">#ed244f</string>
+
+    <!-- Colors -->
+    <color name="actionbar_bg">#506471</color>
+    <color name="actionbar_text">#fff</color>
+    <color name="border_color">#e9e9e9</color>
+    <color name="primary_grey">#5f727f</color>
+    <color name="secondary_grey">#a0a0a0</color>
+    <color name="divider_color">#fff</color>
+    <color name="main_bg_color">#fff</color>
+    <string name="title_activity_maps">Map</string>
+</resources>

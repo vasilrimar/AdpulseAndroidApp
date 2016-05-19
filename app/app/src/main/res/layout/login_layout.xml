@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f56647"
+    android:padding="15dp">
+
+    <ImageView
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
+        android:id="@+id/imageView"
+        android:background="@drawable/ic_logo"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_marginTop="20dp"
+        android:textColor="#63281c"
+        android:layout_gravity="center_horizontal"
+        android:text="Invalid username or password."
+        android:id="@+id/loginError" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginUsername"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:background="#fff"
+        android:hint="Username"
+        android:textColor="#5a5e60"
+        android:padding="10dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/loginPassword"
+        android:background="#fff"
+        android:padding="10dp"
+        android:layout_marginTop="15dp"
+        android:hint="Password"
+        android:textColor="#5a5e60"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:id="@+id/loginButton"
+        android:background="#63281c"
+        android:textColor="#fff"
+        android:layout_marginTop="15dp"
+        android:onClick="handleLogin"/>
+
+</LinearLayout>
